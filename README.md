@@ -1,6 +1,6 @@
 # agent_ifc
 
-Python simulations and reference results for *The Limits of Information-Flow Control Enforcement in Agentic AI Systems*.
+Python simulations and reference results for *The Limits of Information-Flow Control Enforcement in Agentic AI Systems* (AIDC'26).
 
 ## Experiments
 
