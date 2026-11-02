@@ -1,0 +1,578 @@
+[
+  {
+    "topology": "mesh",
+    "agents": 5,
+    "edges": 10,
+    "utility_loss": 0.86588104
+  },
+  {
+    "topology": "mesh",
+    "agents": 6,
+    "edges": 15,
+    "utility_loss": 0.8556052199999999
+  },
+  {
+    "topology": "mesh",
+    "agents": 7,
+    "edges": 21,
+    "utility_loss": 0.842073955
+  },
+  {
+    "topology": "mesh",
+    "agents": 8,
+    "edges": 28,
+    "utility_loss": 0.8326482949999999
+  },
+  {
+    "topology": "mesh",
+    "agents": 9,
+    "edges": 36,
+    "utility_loss": 0.8248701249999999
+  },
+  {
+    "topology": "mesh",
+    "agents": 10,
+    "edges": 45,
+    "utility_loss": 0.81694162
+  },
+  {
+    "topology": "mesh",
+    "agents": 11,
+    "edges": 55,
+    "utility_loss": 0.8105031099999999
+  },
+  {
+    "topology": "mesh",
+    "agents": 12,
+    "edges": 66,
+    "utility_loss": 0.8062024400000001
+  },
+  {
+    "topology": "mesh",
+    "agents": 13,
+    "edges": 78,
+    "utility_loss": 0.8016462050000001
+  },
+  {
+    "topology": "mesh",
+    "agents": 14,
+    "edges": 91,
+    "utility_loss": 0.796252285
+  },
+  {
+    "topology": "mesh",
+    "agents": 15,
+    "edges": 105,
+    "utility_loss": 0.791959715
+  },
+  {
+    "topology": "mesh",
+    "agents": 16,
+    "edges": 120,
+    "utility_loss": 0.78588274
+  },
+  {
+    "topology": "mesh",
+    "agents": 17,
+    "edges": 136,
+    "utility_loss": 0.7839847500000001
+  },
+  {
+    "topology": "mesh",
+    "agents": 18,
+    "edges": 153,
+    "utility_loss": 0.7809593249999999
+  },
+  {
+    "topology": "mesh",
+    "agents": 19,
+    "edges": 171,
+    "utility_loss": 0.777775805
+  },
+  {
+    "topology": "mesh",
+    "agents": 20,
+    "edges": 190,
+    "utility_loss": 0.77578721
+  },
+  {
+    "topology": "star",
+    "agents": 5,
+    "edges": 5,
+    "utility_loss": 0.8926881850000001
+  },
+  {
+    "topology": "star",
+    "agents": 6,
+    "edges": 6,
+    "utility_loss": 0.88917439
+  },
+  {
+    "topology": "star",
+    "agents": 7,
+    "edges": 7,
+    "utility_loss": 0.8842962999999999
+  },
+  {
+    "topology": "star",
+    "agents": 8,
+    "edges": 8,
+    "utility_loss": 0.8804420199999999
+  },
+  {
+    "topology": "star",
+    "agents": 9,
+    "edges": 9,
+    "utility_loss": 0.8790484300000001
+  },
+  {
+    "topology": "star",
+    "agents": 10,
+    "edges": 10,
+    "utility_loss": 0.87791476
+  },
+  {
+    "topology": "star",
+    "agents": 11,
+    "edges": 11,
+    "utility_loss": 0.87536526
+  },
+  {
+    "topology": "star",
+    "agents": 12,
+    "edges": 12,
+    "utility_loss": 0.87426191
+  },
+  {
+    "topology": "star",
+    "agents": 13,
+    "edges": 13,
+    "utility_loss": 0.873507095
+  },
+  {
+    "topology": "star",
+    "agents": 14,
+    "edges": 14,
+    "utility_loss": 0.8717472250000001
+  },
+  {
+    "topology": "star",
+    "agents": 15,
+    "edges": 15,
+    "utility_loss": 0.8712863750000001
+  },
+  {
+    "topology": "star",
+    "agents": 16,
+    "edges": 16,
+    "utility_loss": 0.868551565
+  },
+  {
+    "topology": "star",
+    "agents": 17,
+    "edges": 17,
+    "utility_loss": 0.868924015
+  },
+  {
+    "topology": "star",
+    "agents": 18,
+    "edges": 18,
+    "utility_loss": 0.86816642
+  },
+  {
+    "topology": "star",
+    "agents": 19,
+    "edges": 19,
+    "utility_loss": 0.86805791
+  },
+  {
+    "topology": "star",
+    "agents": 20,
+    "edges": 20,
+    "utility_loss": 0.86763612
+  },
+  {
+    "topology": "ring",
+    "agents": 5,
+    "edges": 5,
+    "utility_loss": 0.875834165
+  },
+  {
+    "topology": "ring",
+    "agents": 6,
+    "edges": 6,
+    "utility_loss": 0.870343625
+  },
+  {
+    "topology": "ring",
+    "agents": 7,
+    "edges": 7,
+    "utility_loss": 0.862385945
+  },
+  {
+    "topology": "ring",
+    "agents": 8,
+    "edges": 8,
+    "utility_loss": 0.85819859
+  },
+  {
+    "topology": "ring",
+    "agents": 9,
+    "edges": 9,
+    "utility_loss": 0.854339825
+  },
+  {
+    "topology": "ring",
+    "agents": 10,
+    "edges": 10,
+    "utility_loss": 0.8516032600000001
+  },
+  {
+    "topology": "ring",
+    "agents": 11,
+    "edges": 11,
+    "utility_loss": 0.847602065
+  },
+  {
+    "topology": "ring",
+    "agents": 12,
+    "edges": 12,
+    "utility_loss": 0.84586827
+  },
+  {
+    "topology": "ring",
+    "agents": 13,
+    "edges": 13,
+    "utility_loss": 0.8436288650000001
+  },
+  {
+    "topology": "ring",
+    "agents": 14,
+    "edges": 14,
+    "utility_loss": 0.8422535149999999
+  },
+  {
+    "topology": "ring",
+    "agents": 15,
+    "edges": 15,
+    "utility_loss": 0.84126929
+  },
+  {
+    "topology": "ring",
+    "agents": 16,
+    "edges": 16,
+    "utility_loss": 0.839100355
+  },
+  {
+    "topology": "ring",
+    "agents": 17,
+    "edges": 17,
+    "utility_loss": 0.83857016
+  },
+  {
+    "topology": "ring",
+    "agents": 18,
+    "edges": 18,
+    "utility_loss": 0.837706525
+  },
+  {
+    "topology": "ring",
+    "agents": 19,
+    "edges": 19,
+    "utility_loss": 0.8366444650000001
+  },
+  {
+    "topology": "ring",
+    "agents": 20,
+    "edges": 20,
+    "utility_loss": 0.835846365
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 5,
+    "edges": 7,
+    "utility_loss": 0.8874290100000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 6,
+    "edges": 8,
+    "utility_loss": 0.8828057300000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 7,
+    "edges": 9,
+    "utility_loss": 0.87757304
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 8,
+    "edges": 10,
+    "utility_loss": 0.873555945
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 9,
+    "edges": 11,
+    "utility_loss": 0.871104515
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 10,
+    "edges": 12,
+    "utility_loss": 0.8702702950000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 11,
+    "edges": 13,
+    "utility_loss": 0.8673415649999999
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 12,
+    "edges": 14,
+    "utility_loss": 0.8653805
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 13,
+    "edges": 15,
+    "utility_loss": 0.864843795
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 14,
+    "edges": 16,
+    "utility_loss": 0.8630876249999999
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 15,
+    "edges": 17,
+    "utility_loss": 0.8629023600000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 16,
+    "edges": 18,
+    "utility_loss": 0.8599953949999999
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 17,
+    "edges": 19,
+    "utility_loss": 0.8593709650000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 18,
+    "edges": 20,
+    "utility_loss": 0.8589439600000001
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 19,
+    "edges": 21,
+    "utility_loss": 0.858505635
+  },
+  {
+    "topology": "hierarchy",
+    "agents": 20,
+    "edges": 22,
+    "utility_loss": 0.85862438
+  },
+  {
+    "topology": "random_connected",
+    "agents": 5,
+    "edges": 5,
+    "utility_loss": 0.8755284550000001
+  },
+  {
+    "topology": "random_connected",
+    "agents": 6,
+    "edges": 9,
+    "utility_loss": 0.8636201499999999
+  },
+  {
+    "topology": "random_connected",
+    "agents": 7,
+    "edges": 11,
+    "utility_loss": 0.8531473249999999
+  },
+  {
+    "topology": "random_connected",
+    "agents": 8,
+    "edges": 16,
+    "utility_loss": 0.84286123
+  },
+  {
+    "topology": "random_connected",
+    "agents": 9,
+    "edges": 17,
+    "utility_loss": 0.8381729
+  },
+  {
+    "topology": "random_connected",
+    "agents": 10,
+    "edges": 21,
+    "utility_loss": 0.8302488450000001
+  },
+  {
+    "topology": "random_connected",
+    "agents": 11,
+    "edges": 28,
+    "utility_loss": 0.8235710799999999
+  },
+  {
+    "topology": "random_connected",
+    "agents": 12,
+    "edges": 31,
+    "utility_loss": 0.820026305
+  },
+  {
+    "topology": "random_connected",
+    "agents": 13,
+    "edges": 39,
+    "utility_loss": 0.814423065
+  },
+  {
+    "topology": "random_connected",
+    "agents": 14,
+    "edges": 47,
+    "utility_loss": 0.807796055
+  },
+  {
+    "topology": "random_connected",
+    "agents": 15,
+    "edges": 52,
+    "utility_loss": 0.805046055
+  },
+  {
+    "topology": "random_connected",
+    "agents": 16,
+    "edges": 59,
+    "utility_loss": 0.799287905
+  },
+  {
+    "topology": "random_connected",
+    "agents": 17,
+    "edges": 66,
+    "utility_loss": 0.7974408049999999
+  },
+  {
+    "topology": "random_connected",
+    "agents": 18,
+    "edges": 75,
+    "utility_loss": 0.794982195
+  },
+  {
+    "topology": "random_connected",
+    "agents": 19,
+    "edges": 86,
+    "utility_loss": 0.7900879
+  },
+  {
+    "topology": "random_connected",
+    "agents": 20,
+    "edges": 98,
+    "utility_loss": 0.787825635
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 5,
+    "edges": 7,
+    "utility_loss": 0.87162292
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 6,
+    "edges": 8,
+    "utility_loss": 0.8645695050000001
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 7,
+    "edges": 10,
+    "utility_loss": 0.8540163650000001
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 8,
+    "edges": 13,
+    "utility_loss": 0.84536415
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 9,
+    "edges": 13,
+    "utility_loss": 0.84167509
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 10,
+    "edges": 17,
+    "utility_loss": 0.83452399
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 11,
+    "edges": 22,
+    "utility_loss": 0.828436855
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 12,
+    "edges": 24,
+    "utility_loss": 0.8238642650000001
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 13,
+    "edges": 28,
+    "utility_loss": 0.8190876049999999
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 14,
+    "edges": 35,
+    "utility_loss": 0.8128297
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 15,
+    "edges": 38,
+    "utility_loss": 0.80924754
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 16,
+    "edges": 43,
+    "utility_loss": 0.8031604999999999
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 17,
+    "edges": 47,
+    "utility_loss": 0.803273315
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 18,
+    "edges": 52,
+    "utility_loss": 0.800307875
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 19,
+    "edges": 62,
+    "utility_loss": 0.7950611650000001
+  },
+  {
+    "topology": "random_connected_p03",
+    "agents": 20,
+    "edges": 67,
+    "utility_loss": 0.7923006300000001
+  }
+]
