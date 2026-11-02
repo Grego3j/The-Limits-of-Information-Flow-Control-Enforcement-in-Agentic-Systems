@@ -44,7 +44,7 @@ The last command runs both 2a and 3a; add `--limit 1` for a one-DAG pilot. Their
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{jg8+aidc,
+@inproceedings{gregoryTheLimits26,
   author  = {Jonathan Gregory and Kyle Domico and Kunyang Li and Jean-Charles {Noirot Ferrand} and Patrick McDaniel},
   title   = {The Limits of Information-Flow Control Enforcement in Agentic {AI} Systems},
   booktitle = {Proceedings of the Inaugural Workshop on Agentic AI in Offensive and Defensive Cyber Operations (AIDC 2026)},
