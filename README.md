@@ -38,3 +38,18 @@ python -m agent_ifc.experiments.experiment_2a.run --workers 4
 The last command runs both 2a and 3a; add `--limit 1` for a one-DAG pilot. Their full budget sweeps include the ten-source paper comparison. Figure outputs use the filenames referenced by the paper's LaTeX.
 
 **New runs:** numerical results may differ from the reference files, particularly Experiment 1, which generates new execution samples.
+
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{jg8+aidc,
+  author  = {Jonathan Gregory and Kyle Domico and Kunyang Li and Jean-Charles {Noirot Ferrand} and Patrick McDaniel},
+  title   = {The Limits of Information-Flow Control Enforcement in Agentic {AI} Systems},
+  booktitle = {Proceedings of the Inaugural Workshop on Agentic AI in Offensive and Defensive Cyber Operations (AIDC 2026)},
+  month   = dec,
+  year   = {2026},
+  publisher = {IEEE}
+}
+```
